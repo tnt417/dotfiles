@@ -1,6 +1,0 @@
-stow -D nvim
-stow nvim
-stow -D tmux
-stow tmux
-stow -D zsh
-stow zsh
