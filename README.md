@@ -12,4 +12,6 @@ On macOS (or Linux with homebrew):
 On Ubuntu:
 `sudo apt-get install stow` I think
 
-Then run the `install` script
+Then run `stow nvim tmux zsh ...` script
+
+To cleanup you can run `stow -D nvim tmux zsh ...`
